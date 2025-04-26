@@ -4,8 +4,13 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/02_Conditionals_and_loops/02_Conditionals_and_loops.iml" filepath="$PROJECT_DIR$/02_Conditionals_and_loops/02_Conditionals_and_loops.iml" />
       <module fileurl="file://$PROJECT_DIR$/03_switch/03_switch.iml" filepath="$PROJECT_DIR$/03_switch/03_switch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06_Array_Array-list/06_Array_Array-list.iml" filepath="$PROJECT_DIR$/06_Array_Array-list/06_Array_Array-list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06_Array_Array-list/Array_list/Array_list.iml" filepath="$PROJECT_DIR$/06_Array_Array-list/Array_list/Array_list.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSA_IN_java_( kunal_kushwaha ).iml" filepath="$PROJECT_DIR$/DSA_IN_java_( kunal_kushwaha ).iml" />
       <module fileurl="file://$PROJECT_DIR$/04_Functions/Functions.iml" filepath="$PROJECT_DIR$/04_Functions/Functions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06_Array_Array-list/Question/Question.iml" filepath="$PROJECT_DIR$/06_Array_Array-list/Question/Question.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_Conditionals_and_loops/Questions/Questions.iml" filepath="$PROJECT_DIR$/02_Conditionals_and_loops/Questions/Questions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06_Array_Array-list/multidimensional_array/multidimensional_array.iml" filepath="$PROJECT_DIR$/06_Array_Array-list/multidimensional_array/multidimensional_array.iml" />
       <module fileurl="file://$PROJECT_DIR$/04_Functions/question/question.iml" filepath="$PROJECT_DIR$/04_Functions/question/question.iml" />
     </modules>
   </component>
