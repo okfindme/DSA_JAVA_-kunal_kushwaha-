@@ -7,7 +7,11 @@
       <module fileurl="file://$PROJECT_DIR$/03_switch/03_switch.iml" filepath="$PROJECT_DIR$/03_switch/03_switch.iml" />
       <module fileurl="file://$PROJECT_DIR$/00_assignments/05_array/05_array.iml" filepath="$PROJECT_DIR$/00_assignments/05_array/05_array.iml" />
       <module fileurl="file://$PROJECT_DIR$/06_Array_Array-list/06_Array_Array-list.iml" filepath="$PROJECT_DIR$/06_Array_Array-list/06_Array_Array-list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/00_assignments/06_linear_search/06_linear_search.iml" filepath="$PROJECT_DIR$/00_assignments/06_linear_search/06_linear_search.iml" />
       <module fileurl="file://$PROJECT_DIR$/07_Linear_search_algorithm/07_Linear_search_algorithm.iml" filepath="$PROJECT_DIR$/07_Linear_search_algorithm/07_Linear_search_algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08_binary_search/07_binary_search.iml" filepath="$PROJECT_DIR$/08_binary_search/07_binary_search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09_Faang_binary_search/09_Faang_binary_search.iml" filepath="$PROJECT_DIR$/09_Faang_binary_search/09_Faang_binary_search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10_Bisearch_2d/10_Bisearch_2d.iml" filepath="$PROJECT_DIR$/10_Bisearch_2d/10_Bisearch_2d.iml" />
       <module fileurl="file://$PROJECT_DIR$/06_Array_Array-list/Array_list/Array_list.iml" filepath="$PROJECT_DIR$/06_Array_Array-list/Array_list/Array_list.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSA_IN_java_( kunal_kushwaha ).iml" filepath="$PROJECT_DIR$/DSA_IN_java_( kunal_kushwaha ).iml" />
       <module fileurl="file://$PROJECT_DIR$/04_Functions/Functions.iml" filepath="$PROJECT_DIR$/04_Functions/Functions.iml" />
